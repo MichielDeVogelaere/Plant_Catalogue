@@ -1,0 +1,17 @@
+README.md
+setup.py
+src/database/__init__.py
+src/database/db_operations.py
+src/database/queries.py
+src/plant_catalogue.egg-info/PKG-INFO
+src/plant_catalogue.egg-info/SOURCES.txt
+src/plant_catalogue.egg-info/dependency_links.txt
+src/plant_catalogue.egg-info/requires.txt
+src/plant_catalogue.egg-info/top_level.txt
+src/utils/__init__.py
+src/utils/image_handler.py
+src/utils/image_processor.py
+src/utils/image_viewer.py
+src/utils/plantdata_processor.py
+src/utils/qr_handler.py
+src/utils/report_generator.py

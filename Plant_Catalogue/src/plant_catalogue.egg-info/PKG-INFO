@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: plant_catalogue
+Version: 0.1
+Requires-Dist: qrcode
+Requires-Dist: opencv-python
+Requires-Dist: pillow
+Requires-Dist: tabulate
+Requires-Dist: python-dateutil
+Requires-Dist: numpy

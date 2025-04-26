@@ -1,0 +1,6 @@
+qrcode
+opencv-python
+pillow
+tabulate
+python-dateutil
+numpy
